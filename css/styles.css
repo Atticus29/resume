@@ -1,0 +1,30 @@
+html {
+  padding-left: 10px;
+  background-color: lightgray;
+}
+.personalInfo{
+  font-size: 115%;
+  font-family: sans-serif;
+}
+
+.resumeSection{
+  font-size: 100%;
+}
+
+.personalInfo hr {
+  width: 500px;
+  height: 1px;
+
+}
+
+.resumeSection hr {
+  width: 500px;
+}
+.date {
+  font-weight: bold;
+}
+ul {
+  list-style: none;
+  line-height: 25px;
+  font-size: 120%;
+}
